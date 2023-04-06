@@ -1,0 +1,16 @@
+[
+    {
+ "firstName" : "Staci",
+ "middleInitial" : "A",
+ "lastName" : "Cane",
+ "dateOfBirth" : "02/03/1999",
+ "ssn" : "000-00-0000"
+    },
+    {
+ "firstName": "Temi",
+ "middleInitial": "O",
+ "lastName": "Bukola",
+ "dateOfBirth" : "10/11/2020",
+ "ssn": "111-11-1111"
+    }
+]
