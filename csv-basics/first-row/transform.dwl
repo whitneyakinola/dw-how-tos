@@ -1,4 +1,4 @@
-%dw 2.4
+%dw 2.0
 output application/java
 ---
 payload[0]
