@@ -3,4 +3,4 @@ output application/json
 ---
 payload
 filterObject
-(value, key, index) -> (((key as Number) mod 2) == 0)
+(value, key, index) -> (((index) mod 2) == 0)
