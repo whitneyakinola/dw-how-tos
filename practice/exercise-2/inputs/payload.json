@@ -1,0 +1,14 @@
+{
+    "orderId": 12345,
+    "customer": {
+      "name": "John Doe",
+      "address": {
+        "city": "New York",
+        "zip": "10001"
+      }
+    },
+    "items": [
+      { "name": "Widget A", "quantity": 2 },
+      { "name": "Widget B", "quantity": 5 }
+    ]
+  }
