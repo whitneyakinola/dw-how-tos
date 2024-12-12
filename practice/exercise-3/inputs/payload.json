@@ -1,0 +1,11 @@
+[
+    { "id": 1, "category": "Electronics", "amount": 120.00 },
+    { "id": 2, "category": "Clothing", "amount": 80.00 },
+    { "id": 3, "category": "Electronics", "amount": 200.00 },
+    { "id": 5, "category": "Clothing", "amount": 160.00 },
+    { "id": 6, "category": "Electronics", "amount": 205.00 },
+    { "id": 7, "category": "Electronics", "amount": 850.00 },
+  { "id": 8, "category": "Clothing", "amount": 1250.00 },
+    { "id": 9, "category": "Electronics", "amount": 250.00 },
+  { "id": 10, "category": "Clothing", "amount": 1250.00 }
+  ]
